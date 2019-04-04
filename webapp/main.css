@@ -1,0 +1,48 @@
+body {
+  	background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/NAuOO95cgiknue920/videoblocks-child-sitting-on-santas-lap-kid-visit-saint-nicolas-winter-residence-little-boy-with-christmas-sweet-tell-santa-claus-his-wishes-room-with-fireplace-and-decorated-christmas-tree-holiday-atmosphere_b2zgqdxizb_thumbnail-full01.png");
+  	background-repeat: no-repeat;
+  	background-size: 100%;
+}
+
+#wishBox{
+	display: inline-block;
+	margin: auto;
+  	width: 50%;
+  	padding: 10px;
+  	border-width: 5px;
+  	border-color: red;
+  	background-color: white;
+  	opacity: 0.88;
+ 	filter: alpha(opacity=30);
+ 	text-align: center;
+ 	padding-bottom: 30px;
+}
+
+.jpaBox {
+	padding-left: 40px;
+  	float: left;
+}
+.jdbcBox {
+	padding-right: 40px;
+  	float: right;
+}
+
+#wishes{
+	display: inline-block;
+  	width: 50%;
+  	padding: 10px;
+  	border-width: 5px;
+  	border-color: white;
+  	background-color: red;
+  	color: white;
+  	opacity: 0.80;
+ 	filter: alpha(opacity=30);
+ 	padding-bottom: 30px;
+}
+
+.kids{
+	border-top-style: solid;
+  	border-color: white;
+}
+
+  
