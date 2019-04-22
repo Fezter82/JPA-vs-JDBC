@@ -37,9 +37,8 @@ public class MakeAWishServlet extends HttpServlet {
 		
 		for(int i=1; i<=3; i++) {
 			String toy = request.getParameter("toy" + Integer.toString(i));
-			if(!toy.equals(""));{
+			if(!toy.equals(""))
 				toyList.add(toy);
-			}
 		}		
 
 		try {
